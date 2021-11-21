@@ -14,6 +14,7 @@ npm i dotenv
 npm i nodemon
 npm i express
 npm i mongodb
+npm i cors
 ```
 
 Initial Code:
